@@ -1,16 +1,16 @@
 {
-'Crack face baby': 'bryant',
-'Graybo': 'Graybo',
-'Meek and Mills': 'David',
+'Crack face baby': 'Crocker',
+'Graybo': 'Gray',
+'Meek and Mills': 'Dave',
 'Michael Koon Music': 'Michael',
-'PHattys': 'Patrick',
+'PHattys': 'Pat',
 'Schmop': 'Dan',
-'Spartans': 'Matt',
+'Spartans': 'Sam',
 'Thanos Adherent': 'Matt',
-'The Atheist': 'Dave',
-'The Bugs of June': 'jeremy moss',
-'craigbear': 'Craig Wood',
-'isthisimportant': 'ned',
+'The Atheist': 'Nards',
+'The Bugs of June': 'Jeremy',
+'craigbear': 'Craig',
+'isthisimportant': 'Ned',
 'rem dogz': 'Kyle',
-'tmacastar': 'Tommy McKenna'
+'tmacastar': 'Tommy'
 }
